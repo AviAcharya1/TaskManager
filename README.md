@@ -1,5 +1,9 @@
 # TaskManager
 
+## Project is live at:
+
+- https://task-manager-xi-bay.vercel.app/
+
 ## Overview
 
 This Task Management Dashboard is a React-based web application designed to help users organize their daily tasks, track productivity, and visualize their progress. It features a clean, intuitive interface built with Material-UI and includes interactive charts for data visualization.
