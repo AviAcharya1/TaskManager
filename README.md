@@ -93,8 +93,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Material-UI](https://mui.com/)
 - [Recharts](https://recharts.org/en-US/)
 
----
-
-Thank you for your interest in contributing to the Task Management Dashboard! We look forward to your contributions and hope you find this project useful.
-```
-
+  
+- Thank you for your interest in contributing to the Task Management Dashboard! We look forward to your contributions and hope you find this project useful.
